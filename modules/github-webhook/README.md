@@ -1,0 +1,1 @@
+# Github repository webhook for Atlantis
